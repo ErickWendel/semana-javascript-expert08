@@ -1,0 +1,20 @@
+{
+  "name": "ffmpeg-wasm-streaming-video-player",
+  "version": "0.0.1",
+  "description": "An example of using FFmpeg.wasm to perform streaming transcoding within the browser",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "npx browser-sync --port 3001 -w",
+    "download-asserts": "node download.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tar": "^6.2.0"
+  }
+}
