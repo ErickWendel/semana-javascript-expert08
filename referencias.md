@@ -29,3 +29,6 @@
 - https://github.com/Vanilagy/webm-muxer
 
 - https://github.com/vjeux/mp4-h264-re-encode/blob/3f912f3d1ed448e507466206375ed7a06819d2d1/mp4box.html#L50-L62
+
+- https://developer.mozilla.org/en-US/docs/Web/API/VideoDecoder/configure
+- https://developer.mozilla.org/en-US/docs/Web/API/EncodedVideoChunk
