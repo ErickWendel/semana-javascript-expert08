@@ -1,4 +1,4 @@
-# JSExpertHub Reimaging Video Upload - Semana JS Expert 8.0
+# JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0
 
 Seja bem vindo(a) à oitava Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
 
