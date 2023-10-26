@@ -12,7 +12,8 @@ Marque esse projeto com uma estrela 🌟
 - O ideal é que você use o projeto em ambiente Unix (Linux). Se você estiver no Windows, é recomendado que use o [Windows Subsystem Linux](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) pois nas aulas são mostrados comandos Linux que possam não existir no Windows.
 
 ## Importante
-- Todo dia às 18hrs estou subindo o código das aulas do dia corrente em [classes](./classes). Se você for iniciar o projeto, remova a pasta [classes](./classes) para iniciar do zero!
+
+- Todo dia às 18hrs estou subindo o código das aulas do dia corrente aqui no repositório. Se você for iniciar o projeto, remova as pastas das aulas anteriores para iniciar do zero!
 
 ## Running
 - Execute `npm ci` na pasta que contém o arquivo `package.json` para restaurar os pacotes
@@ -21,14 +22,14 @@ Marque esse projeto com uma estrela 🌟
 ## Checklist Features
 
 - Video Uploader
-  - [] - Deve entender videos em formato MP4 mesmo se não estiverem fragmentados
-  - [] - Deve processar itens em threads isoladas com Web Workers
-  - [] - Deve converter fragmentos de videos em formato `144p`
-  - [] - Deve renderizar frames em tempo real em elemento canvas
-  - [] - Deve gerar arquivos WebM a partir de fragmentos
+  - [x] - Deve entender videos em formato MP4 mesmo se não estiverem fragmentados
+  - [x] - Deve processar itens em threads isoladas com Web Workers
+  - [ ] - Deve converter fragmentos de videos em formato `144p`
+  - [x] - Deve renderizar frames em tempo real em elemento canvas
+  - [ ] - Deve gerar arquivos WebM a partir de fragmentos
 
 ### Desafios
-- [] - TBD
+- [ ] - TBD
 
 
 ### Links mostrados nos aulas:
