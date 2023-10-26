@@ -42,7 +42,9 @@ Marque esse projeto com uma estrela 🌟
 
 
 ### Links mostrados nos aulas:
-- Reuni todos os links em [referências](./referencias.md)
+
+- Reuni todos os links em [referências](./../referencias.md)
+
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
