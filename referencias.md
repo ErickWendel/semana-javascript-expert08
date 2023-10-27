@@ -32,3 +32,5 @@
 
 - https://developer.mozilla.org/en-US/docs/Web/API/VideoDecoder/configure
 - https://developer.mozilla.org/en-US/docs/Web/API/EncodedVideoChunk
+
+- https://github.com/ErickWendel/javascript-expert-developer-roadmap
