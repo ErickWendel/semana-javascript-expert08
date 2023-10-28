@@ -1,0 +1,21 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "erickwendel",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "pino": "^8.15.1",
+    "pino-pretty": "^10.2.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": "v18.17.0"
+  }
+}
